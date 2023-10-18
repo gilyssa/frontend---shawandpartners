@@ -1,0 +1,19 @@
+.ContainerDetails{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 30px;
+    color: #A27D64;
+}
+
+.RepositoriesButton{
+  width: 20rem;
+  height: 5rem;
+  margin-top: 30px;
+}
+
+.BackButton {
+  width: 15rem;
+  height: 5rem;
+  margin-top: 30px;
+}
